@@ -8,5 +8,7 @@ Feel free to base your website design on this, I don't really have a use for a w
 for me and my friends. This just makes it easier to find information about me and the links to stuff I provide I guess.
 
 It's not really interesting I know, but here we are I guess.
-![image](https://github.com/user-attachments/assets/778953e3-0ee1-4522-b6c1-696a42374412)
+
+![image](https://github.com/user-attachments/assets/f923f8f3-063f-457e-8066-2034790481e3)
+
 
