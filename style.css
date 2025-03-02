@@ -77,30 +77,6 @@ p {
     background-color: #5e4e99; /* Darker hover color */
 }
 
-.endr {
-    margin-top: 40px;
-}
-
-.endr h2 {
-    color: #a382ff; /* Darker purple for ENDR header */
-}
-
-.endr-logo {
-    width: 120px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-
-.endr a {
-    color: #a58fff; /* Regular link styling for ENDR section */
-    text-decoration: none;
-    transition: color 0.3s ease;
-}
-
-.endr a:hover {
-    color: #c7b1ff; /* Hover effect for ENDR section links */
-}
-
 .footer-box {
     text-align: center;
     background-color: rgba(26, 26, 26, 0.9); /* Darker box background for footer */
